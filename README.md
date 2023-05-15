@@ -1,16 +1,10 @@
-# flutter_application_1
+# UTS PEMROGRAMAN MOBILE
+# Nama  : Alingga Reandito
+# Nim   : 312010276
+# Kelas : TI.20.A2
 
-A new Flutter project.
+#Soal
+# Setelah belajar tentang pemrograman mobile dengan fluter, Silahkan buat halaman login dengan flutter kemudian kumpulkan ke link UTS di ecampus
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshot Halaman Login
+![uts](https://github.com/Alingga412/flutter_application_1/assets/73011532/aeaede86-a811-4973-ba89-7270b3cd5c49)
